@@ -1,0 +1,26 @@
+.nav {
+    display: grid;
+    justify-content: center;
+    background-color: rgb(248, 139, 139);
+    max-width: 300px;
+    height: 100vh;
+}
+
+.nav_selections span {
+    display: grid;
+    color: black;
+    /* padding: 10px; */
+    /* margin-top: 40px; */
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav_selections .home {
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+
+.other_selections span {
+    display: grid;
+    margin: 20px 0px
+}
